@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leah 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leah,
 =======================================================================================================================================
 
 Aspiring to become a Full Stack Developer, I've embarked on a journey of continuous learning and skill development. I've started by mastering the fundamental concepts of both front-end and back-end development, including languages such as HTML, CSS, JavaScript, and Java.
