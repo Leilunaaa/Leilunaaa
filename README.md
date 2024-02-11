@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leah
+![image](https://github.com/Leilunaaa/Leilunaaa/assets/91388847/61b23905-afdf-4ab1-894c-7c9ce25d6d33)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leah
 ============================================================================================================================
 
 Aspiring to become a Full Stack Developer, I've embarked on a journey of continuous learning and skill development. I've started by mastering the fundamental concepts of both front-end and back-end development, including languages such as HTML, CSS, JavaScript, and Java.
@@ -6,7 +6,8 @@ Aspiring to become a Full Stack Developer, I've embarked on a journey of continu
 
 I'm always interested to learn new ideas and enhance my skills in the world of technology. I have a constant thirst for knowledge, and I'm determined to keep up with the latest developments in the fields of technology. Being a lifetime student, I accept every opportunity to expand my knowledge and build new new skills in the world of technology.
 
-* ✉️  You can contact me at [https://www.facebook.com/alcantara.leah04 https://www.linkedin.com/in/leah-sulongsawa/](mailto:https://www.facebook.com/alcantara.leah04 https://www.linkedin.com/in/leah-sulongsawa/)
+* ✉️  You can contact me at [https://www.facebook.com/alcantara.leah04
+* ✉️ https://www.linkedin.com/in/leah-sulongsawa/](mailto:https://www.facebook.com/alcantara.leah04 https://www.linkedin.com/in/leah-sulongsawa/)
 * 🧠  I'm learning ReactJs, Java, javascript
 
 ### Skills
