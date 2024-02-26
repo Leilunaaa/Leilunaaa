@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring to become a Full Stack Developer, I've embarked on a journey of continuous learning and skill development. I've started by mastering the fundamental concepts of both front-end and back-end development, including languages such as HTML, CSS, JavaScript, and Java.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I'm always interested to learn new ideas and enhance my skills in the world of technology. I have a constant thirst for knowledge, and I'm determined to keep up with the latest developments in the field of technology. Being a lifetime student, I accept every opportunity to expand my knowledge and build new skills in the world of technology.
+I'm always interested to learn new ideas and enhance my skills in the world of technology. I have a constant thirst for knowledge, and I'm determined to keep up with the latest developments in the field of technology. Being a lifetime student, I accept every opportunity to expand my knowledge and build new skills in the world of technology.  "Surpass your limits" - Yami (Black Clover)
 
 * 🌍  I'm based in the Philippines
 * ✉️  You can contact me at [lsulongsawa@gmail.com](mailto:lsulongsawa@gmail.com)
